@@ -20,4 +20,7 @@
     float: none;
     display: inline-block; }
 
+ul li {
+  list-style-image: url(img/flor_bullet.png); }
+
 /*# sourceMappingURL=main.css.map */
